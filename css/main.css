@@ -1,15 +1,11 @@
-
-  @font-face {
+@font-face {
       font-family: "ailerons";
       src: url("ailerons.otf");
   }
 
   @font-face {
       font-family: "covesBold";
-      /*old code
       src: url("covesBold.otf");
-      */
-      src: url("../hello-world/fonts/covesBold.otf");
   }
 
   body {
