@@ -62,7 +62,7 @@ body {
 /*aboutUs div*/
 .aboutUs {
   padding: 200px 50px 200px 50px;
-  background: url("../images/ocean.jpg");
+  background: url("./ocean.jpg");
   background-size: cover;
 }
 
@@ -81,7 +81,7 @@ body {
 /*whatWeDo div*/
 .whatWeDo {
   padding: 130px 250px 150px 250px;
-  background: url("./Forest.jpg");
+  background: url("./forest.jpg");
   background-size: cover;
 }
 
