@@ -6,7 +6,10 @@
 
   @font-face {
       font-family: "covesBold";
+      /*old code
       src: url("covesBold.otf");
+      */
+      src: url("../hello-world/fonts/covesBold.otf");
   }
 
   body {
