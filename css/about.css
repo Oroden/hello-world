@@ -62,7 +62,7 @@ body {
 /*aboutUs div*/
 .aboutUs {
   padding: 200px 50px 200px 50px;
-  background: url("./ocean.jpg");
+  background: url("../images/ocean.jpg");
   background-size: cover;
 }
 
